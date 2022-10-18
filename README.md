@@ -1,6 +1,9 @@
 # assets
 blog的资源文件
 
+## 介绍
+- blog: [http://licheng1013.gitee.io/blog-doc/](http://licheng1013.gitee.io/blog-doc/)
+
 ## 一些常用工具
 ## IDM下载
 - IDM_v6.41.2_Setup_by-System3206.exe
